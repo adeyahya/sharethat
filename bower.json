@@ -1,0 +1,23 @@
+{
+  "name": "sharethat",
+  "description": "Library for social sharing",
+  "main": "app.js",
+  "authors": [
+    "ade yahya"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "share",
+    "sharer",
+    "social"
+  ],
+  "homepage": "https://github.com/adeyahya/sharethat",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

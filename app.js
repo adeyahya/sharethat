@@ -72,5 +72,6 @@ var sharethat = (function() {
 	return {
 		openWindow: _openWindow
 	}
-
 })()
+
+module.exports = sharethat
