@@ -12,7 +12,7 @@
     "social"
   ],
   "homepage": "https://github.com/adeyahya/sharethat",
-  "private": true,
+  "private": false,
   "ignore": [
     "**/.*",
     "node_modules",
