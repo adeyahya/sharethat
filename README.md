@@ -29,7 +29,8 @@ data-image=[link to image] ~required, pinterest only
 ### API
 When using module loader suck as `webpack`
 
-```let sharethat = require('sharethat')
+```
+let sharethat = require('sharethat')
 sharethat.openWindow(url, title, windowWidth, windowHeight)
 ```
 
