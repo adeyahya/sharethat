@@ -21,9 +21,13 @@ if youre a freelancer I think you might be tired when creating function to share
 ## Options
 ### HTML
 data-toggle='sharethat' ~required
+
 data-target='[ex: twitter]' ~optional, default: facebook
+
 href='[link to share]' ~if not provided will share current url
+
 data-message=[message or description] ~optional
+
 data-image=[link to image] ~required, pinterest only
 
 ### API
