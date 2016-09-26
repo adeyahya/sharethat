@@ -16,9 +16,10 @@ if youre a freelancer I think you might be tired when creating function to share
 *in HTML*
 `<a href="[link to share]" data-toggle="sharethat" data-target="facebook"/>`
 
-![screenshot](screenshot.png)
+![screenshot](/screenshot.png?raw=true)
 
 ## Options
+
 ### HTML
 data-toggle='sharethat' ~required
 
@@ -33,7 +34,7 @@ data-image=[link to image] ~required, pinterest only
 ### API
 When using module loader suck as `webpack`
 
-```
+```javascript
 let sharethat = require('sharethat')
 sharethat.openWindow(url, title, windowWidth, windowHeight)
 ```
@@ -41,4 +42,5 @@ sharethat.openWindow(url, title, windowWidth, windowHeight)
 It will launch new centered window.
 
 ## License
+
 MIT

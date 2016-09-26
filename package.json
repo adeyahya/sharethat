@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Library for social sharing",
   "main": "app.js",
+  "repository": "adeyahya/sharethat",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
