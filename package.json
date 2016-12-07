@@ -1,6 +1,6 @@
 {
   "name": "sharethat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Library for social sharing",
   "main": "app.js",
   "repository": "adeyahya/sharethat",
@@ -8,5 +8,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "ade yahya",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.8",
+    "babel-preset-es2015": "^6.18.0",
+    "path": "^0.12.7",
+    "webpack": "^1.13.3"
+  }
 }
